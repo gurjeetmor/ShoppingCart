@@ -1,5 +1,6 @@
 <?php
 require('header.php');
+error_reporting(E_STRICT);
 $add_items = array();
 
 $products = [
