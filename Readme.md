@@ -5,6 +5,7 @@
 ## Run the application
 
 - Clone the project in www folder
+- Start WAMP/MAMP server
 - Dubug the solution and run in your choice of browser.
 
 ## Project View
